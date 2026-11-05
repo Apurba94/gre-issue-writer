@@ -1,0 +1,11 @@
+{
+ "name": "gre-issue-writer",
+ "title": "Issue Essay Writer",
+ "exam": "GRE",
+ "area": "GRE Writing and Planning",
+ "desc": "Write the Analyze an Issue essay in 30 minutes, with original prompts, a planning space and feedback.",
+ "content": [
+  "issue_prompts.json"
+ ],
+ "n": 36
+}
